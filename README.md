@@ -2,12 +2,12 @@
 <p align="center">
   <img alt="logo" src="https://raw.githubusercontent.com/New-Gaming/NG-Panel/main/route/static/logo.png" height="140" />
   <h3 align="center">NG-Panel</h3>
-  <p align="center">NG定制Linux面板服务</p>
+  <p align="center">NG定制Linux运维面板</p>
 </p>
 
 ### 简介
 
-NewGaming定制的Linux面板，便于安装环境和搭建网站
+NewGaming定制的开源Linux运维面板，便于安装环境和搭建网站
 
 - [常用命令说明](/cmd.md)
 
